@@ -1,6 +1,6 @@
-# ngiflix
+# NGIFLIX
 
-A new Flutter project.
+A Film Streaming App Made with Flutter <3 
 
 ## Getting Started
 
